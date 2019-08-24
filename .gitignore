@@ -23,7 +23,7 @@
 hs_err_pid*
 
 # IntelliJ
-miniproject0/.idea
+miniproject0/.idea/
 miniproject0/*.iml
-miniproject0/target
-miniproject0/log
+miniproject0/target/
+miniproject0/log/
